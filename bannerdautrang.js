@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/tTCsJM' target='_blank'><img src='http://canhodatnensg.vn/wp-content/uploads/2017/04/3-800x495.jpg' width='500px'/><br/>Giá bán căn hộ Hưng Thịnh Lũy Bán Bích</a>. Liên hệ CĐT Hưng Thịnh: 0946753355. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/tTCsJM' target='_blank'><img src='http://canhodatnensg.vn/wp-content/uploads/2017/04/3-800x495.jpg' width='500px'/><br/>Giá bán căn hộ Hưng Thịnh Lũy Bán Bích</a>. Liên hệ PKD.CĐT: 0946753355. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
